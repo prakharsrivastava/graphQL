@@ -1,0 +1,7 @@
+dev/danvega/graphqlpaging/model/Person.class
+dev/danvega/graphqlpaging/repository/PersonRepository.class
+dev/danvega/graphqlpaging/controller/PersonController.class
+dev/danvega/graphqlpaging/data/SampleDataLoader.class
+dev/danvega/graphqlpaging/controller/PersonGraphQlController.class
+dev/danvega/graphqlpaging/GraphqlPagingApplication.class
+dev/danvega/graphqlpaging/model/Address.class
